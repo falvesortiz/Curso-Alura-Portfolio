@@ -4,7 +4,7 @@
 
 # Descrição do Projeto
 
-Projeto de portfólio criado dentro do curso de HTML e CSS da Alura com os instrutores Guilherme Lima e @rafaballerini.
+Projeto de portfólio criado dentro do curso de HTML e CSS da Alura com os instrutores Guilherme Lima e Rafaella Ballerini.
 
 # Tecnologias utilizadas
 
